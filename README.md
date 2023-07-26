@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aman-raj-b32019250/)](https://linkedin.com/in/aman-raj-b32019250/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/araj00)](https://www.linkedin.com/in/araj00)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aman02437@gmail.com)](mailto:aman02437@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
