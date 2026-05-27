@@ -11,8 +11,6 @@
 
 - 💬 Always love to discuss on backend technologies.
 
-- ⚡ Fun fact **I am an anti-anti AI**. I just hate the way it is forced in every product.
-
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/araj00)](https://www.linkedin.com/in/araj00)
